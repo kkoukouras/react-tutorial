@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kkoukouras/react-tutorial/static/css/main.2791bbd1.chunk.css",
+    "main.js": "/kkoukouras/react-tutorial/static/js/main.23d90144.chunk.js",
+    "main.js.map": "/kkoukouras/react-tutorial/static/js/main.23d90144.chunk.js.map",
+    "runtime-main.js": "/kkoukouras/react-tutorial/static/js/runtime-main.40150222.js",
+    "runtime-main.js.map": "/kkoukouras/react-tutorial/static/js/runtime-main.40150222.js.map",
+    "static/js/2.e410b83a.chunk.js": "/kkoukouras/react-tutorial/static/js/2.e410b83a.chunk.js",
+    "static/js/2.e410b83a.chunk.js.map": "/kkoukouras/react-tutorial/static/js/2.e410b83a.chunk.js.map",
+    "index.html": "/kkoukouras/react-tutorial/index.html",
+    "static/css/main.2791bbd1.chunk.css.map": "/kkoukouras/react-tutorial/static/css/main.2791bbd1.chunk.css.map",
+    "static/js/2.e410b83a.chunk.js.LICENSE.txt": "/kkoukouras/react-tutorial/static/js/2.e410b83a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40150222.js",
+    "static/js/2.e410b83a.chunk.js",
+    "static/css/main.2791bbd1.chunk.css",
+    "static/js/main.23d90144.chunk.js"
+  ]
+}
